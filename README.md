@@ -15,6 +15,6 @@ this tool is basically made for discord stupid video size limit so if your video
 1. install this thing
 2. put it in its own folder
 3. run this thing
-3a. install ffmpeg if its not
-3b. report bugs if not promted
+3.a install ffmpeg if its not
+3.b report bugs if not promted
 4. enjoy
